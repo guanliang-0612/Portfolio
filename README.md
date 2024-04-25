@@ -1,10 +1,9 @@
 # Portfolio
 
 # Introduction
-Above examples are some individual assignment that coded by me. 
+These examples featured in my portfolio are individual assignments that I personally coded, demonstrating my proficiency and hands-on experience in various IT-related projects.
 
-
-## Tech Involve
+# Tech Involve
   - CSS
   - Java
   - Python
